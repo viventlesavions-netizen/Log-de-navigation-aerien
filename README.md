@@ -38,6 +38,7 @@ Comme il s'agit d'une application front-end, aucune installation complexe n'est 
 2. Ouvrez le fichier index.html dans votre navigateur préféré.
 
 Évolutions à venir (Roadmap)
+
 [ ] Calcul automatique de la dérive et de la vitesse sol (WCA & GS).
 
 [ ] Sauvegarde locale des navigations précédentes.
